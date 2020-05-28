@@ -67,10 +67,10 @@ python3 bot.py
 
 ### You Can Use Heroku To host It.
 
- `Make sure You have Changed Your Bot Token and google client api Before Hosting It`
+ `Get the bot token by sending /newbot to @BotFather and follow the on screen prompt.`
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
- 
 
 ### My Hidden Thanks To  :heart: 
   - [CyberBoySumanjay](https://github.com/cyberboysumanjay)
