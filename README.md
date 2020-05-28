@@ -56,7 +56,7 @@ python3 bot.py
    - Openload  => Plugins > dlopenload.py
 
 ## Setup Your Own Bot
-```
+
 1. Create Your  [Google Drive api Credential](https://console.cloud.google.com/apis/credentials) (other type) and Download  Its json
 
 2. Paste it In Bot Root Directroy  and Rename it "client_secrets.json"
@@ -64,7 +64,7 @@ python3 bot.py
 3. Replace Your Bot Token in  [creds.py file](./creds.py)
 
 4. Your Bot is Ready to Host. 
-```
+
 ### You Can Use Heroku To host It.
 
  `Make sure You have Changed Your Bot Token and google client api Before Hosting It`
